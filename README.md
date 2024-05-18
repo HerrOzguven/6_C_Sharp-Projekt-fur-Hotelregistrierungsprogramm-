@@ -1,2 +1,3 @@
 # C-Projekt-fur-Hotelregistrierungsprogramm-
-Entwickelt mit C# und SQL und unter Verwendung von Visual Studio
+
+Das Projekt „Hotelregistrierungsprogramm für Sonnenblumen Hotel“ zielt darauf ab, ein manuelles Registrierungs- und Kundenverfolgungssystem durch ein automatisiertes, datenbankgestütztes System zu ersetzen. Entwickelt mit C# und SQL und unter Verwendung von Visual Studio, soll dieses neue System die Effizienz und Genauigkeit der Kundenverwaltung und Zimmerbelegungsübersicht erhöhen, die Kundenzufriedenheit durch strukturierte Datenerfassung und -auswertung verbessern sowie die Arbeitsabläufe des Personals erleichtern. Mit einer benutzerfreundlichen Oberfläche und der Einhaltung der Datenschutz-Grundverordnung (DSGVO) bietet das Programm eine sichere und zuverlässige Lösung, die zukünftige Erweiterungen ermöglicht und die Wettbewerbsfähigkeit des Hotels stärkt.
